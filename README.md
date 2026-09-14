@@ -2,16 +2,16 @@
 
 Public Privacy Policy, Terms of Service, Support, and Data deletion pages for **Orvia: Private Browser** (`com.orvia.web.browser`).
 
-Live: [https://store-01.github.io/orvia-browser/](https://store-01.github.io/orvia-browser/)
+Live: [https://vietnhat-human.github.io/orvia-browser/](https://vietnhat-human.github.io/orvia-browser/)
 
 ## Play Console URLs
 
 | Field | URL |
 |---|---|
-| Privacy policy | https://store-01.github.io/orvia-browser/privacy/ |
-| Terms of service | https://store-01.github.io/orvia-browser/terms/ |
-| Support / website | https://store-01.github.io/orvia-browser/support/ |
-| Data deletion | https://store-01.github.io/orvia-browser/delete-account/ |
+| Privacy policy | https://vietnhat-human.github.io/orvia-browser/privacy/ |
+| Terms of service | https://vietnhat-human.github.io/orvia-browser/terms/ |
+| Support / website | https://vietnhat-human.github.io/orvia-browser/support/ |
+| Data deletion | https://vietnhat-human.github.io/orvia-browser/delete-account/ |
 
 Support email: `contact@bblvn.store`
 
