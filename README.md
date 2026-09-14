@@ -13,6 +13,7 @@ Live: [https://vietnhat-human.github.io/orvia-browser/](https://vietnhat-human.g
 | Support / website | https://vietnhat-human.github.io/orvia-browser/support/ |
 | Data deletion | https://vietnhat-human.github.io/orvia-browser/delete-account/ |
 
-Support email: `contact@bblvn.store`
+Developer: VIET - NHAT HUMAN RESOURCES SUPPLY  
+Support email: `tranvancuong07072003@gmail.com`
 
 This repository contains **static HTML only**. Do not commit Android source, keystores, `google-services.json`, or ads config here.
